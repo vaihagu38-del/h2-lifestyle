@@ -18,7 +18,7 @@ The site is static and can be hosted on GitHub Pages for free. Product photograp
 ## Store setup before launch
 
 - Replace the demo product details, pricing, and product photography in `app.js` with real inventory.
-- Update the WhatsApp number (`8801700000000`) and contact details in `index.html` and the checkout handler in `app.js`.
+- Update the WhatsApp number (`88018825358885`) and contact details in `index.html` and the checkout handler in `app.js`.
 - Connect the newsletter form and checkout to a real service if you need to collect emails or accept online payments. The current checkout shares an order summary through WhatsApp; no payment is processed on the site.
 
 ## Included
